@@ -26,9 +26,9 @@ dependencies {
     implementation("io.github.microutils:kotlin-logging:3.0.5")
     implementation("org.json:json:20171018")
     implementation("org.springframework.boot:spring-boot-starter-websocket")
-    implementation("org.springframework.boot:spring-boot-starter-security")
-    implementation("org.springframework.security:spring-security-test")
-    implementation("org.springframework.security:spring-security-messaging:5.6.2")
+//    implementation("org.springframework.boot:spring-boot-starter-security")
+//    implementation("org.springframework.security:spring-security-test")
+//    implementation("org.springframework.security:spring-security-messaging:5.6.2")
 
 
     testImplementation("org.springframework.boot:spring-boot-starter-test")
